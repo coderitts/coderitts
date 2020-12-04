@@ -1,2 +1,2 @@
-# Welcome to Repo of Collaboration CODER Team fire
+# Welcome to Repo of Collaboration CODER Team
 CODER is a community of IT activists formed to contribute to building the existing technology infrastructure at ITTelkom Surabaya. We also carry out development and research on projects independently.
